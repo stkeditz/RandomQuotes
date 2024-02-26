@@ -81,7 +81,7 @@ body{
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    border: 2px solid #ff0000;
+    border: 2px solid #5372f0;
     transform: all 0.3s ease;
 }
 .features ul li:hover{
