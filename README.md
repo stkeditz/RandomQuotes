@@ -17,3 +17,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=RANDOM+QUOTES+SITE+BY+ADISA+ASSOCIATIONS%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+- <b> sᴀᴍᴘʟᴇ sɪᴛᴇ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ [ᴄʟɪᴄᴋ ᴍᴇ](https://stkeditz.github.io/RandomQuotes/)
