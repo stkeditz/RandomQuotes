@@ -1,3 +1,5 @@
+// give credit else you randiputra
+
 const quoteText = document.querySelector('.quote'),
 author = document.querySelector('.author .name'),
 soundBtn = document.querySelector(".sound"),
@@ -30,3 +32,6 @@ twitterBtn.addEventListener("click", () => {
 });
 
 quoteBtn.addEventListener("click", randomQuote);
+
+
+// give credit to dilop
