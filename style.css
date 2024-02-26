@@ -77,16 +77,16 @@ body{
     width: 47px;
     display: flex;
     cursor: pointer;
-    color: #5372f0;
+    color: #ff0000;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    border: 2px solid #5372f0;
+    border: 2px solid #ff0000;
     transform: all 0.3s ease;
 }
 .features ul li:hover{
     color: #fff;
-    background: #5372f0;
+    background: #ff0000;
 }
 .features button{
     border: none;
@@ -96,7 +96,7 @@ body{
     font-style: 16px;
     padding: 13px 22px;
     border-radius: 30px;
-    background: #5372f0;
+    background: #ff0000;
 }
 button.loading{
     opacity: 0.7;
